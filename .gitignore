@@ -1,1 +1,4 @@
-new.txt
+*.db
+*.log
+/target/
+/bin/
